@@ -1,0 +1,15 @@
+Hi!
+
+Don't mind me.. Just learning some javascript!
+
+Used for real-time app, command line tools, games etc
+
+JavaScript Engines: SpiderMonkey and v8
+(Just wait til we get to Node!)
+(Another Repo...)
+
+ECMAScript? This is a specification and JavaScript is the langauge that defines the specification
+
+console.log('Hello World!');
+
+
