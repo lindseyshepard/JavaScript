@@ -1,0 +1,97 @@
+// // // // //let name='Lindsey'; //string literal
+// // // // //let age=27; //number literal
+// // // // //let isApproved = true; //Boolean literal
+
+// // // // //let person = { //object literal
+// // // // //name: 'Lindsey',
+// // // // //age: 27
+// // // // //};
+
+// // // // //dot notation
+// // // // //person.name='shepard';
+
+// // // // //bracket notation
+// // // // //let selection='name';
+// // // // //person['selection']='Mary';
+
+
+// // // // //let selectedColors = ['red', 'blue'];
+// // // // //selectedColors[2]='green';
+
+
+// // // // // //console.log(selectedColors.length);
+
+// // // // // function square(number){
+// // // // //     return number*number;
+// // // // // }
+// // // // // // //let number = square(2);
+// // // // // // console.log(square(3));
+// // // // // let points=110;
+// // // // // let type = points>100?'gold':'silver';
+// // // // // // console.log(type);
+// // // // // let x = 2 + 3*5;
+// // // // // console.log(x);
+
+// // // // let a = 'red';
+// // // // let b = 'blue';
+
+// // // // let c = a;
+// // // // a = b;
+// // // // b=c;
+
+
+// // // // console.log(a);
+// // // // console.log(b);
+
+
+
+// // // let hour=20;
+// // // if (hour>=6 && hour<12)
+// // // console.log('good morning');
+
+
+// // // else if (hour>=12&&hour<18)
+// // //     console.log=('good afternoon');
+
+// // // else
+// // // console.log('good evening');
+
+
+
+// // let role='guest';
+// // switch(role){
+// //     case 'guest':
+// //         console.log('Guest User');
+// //         break;
+// //         case 'moderator':
+// //             console.log('Moderator User');
+// //             break;
+// //             default:
+// //                 console.log('unknown');
+
+// // }
+
+
+
+// for(let i=0; i<5;i++){
+//     console.log('Hello World');
+// }
+// //for loop
+// for (let i=0; i<=5;i++){
+//     if(i%2!==0) console.log(i);
+// }
+
+// //while loop
+// let i =0;
+// while(i<=5){
+//     if(i%2!==0) console.log(i);
+//     i++;
+// }
+
+
+//do..while
+let i=0;
+do{
+    if(i%2!==0) console.log(i);
+        i++;
+} while(i<=5);
