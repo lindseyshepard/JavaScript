@@ -1,0 +1,26 @@
+//for-in loop to iterate over properties of an object
+const person={
+    name: 'Lindsey',
+    age:27
+};
+for(let key in person)
+console.log(key, person[key]);
+
+// //dot notation
+// person.name
+
+
+// //bracket notation
+// person['name']
+
+
+const colors=['red','green','blue'];
+for(let index in colors)
+console.log(index, colors[index]);
+
+
+
+
+//for...of to iterate over the elemtns or items in an array
+for(let color of colors)
+console.log(color);
